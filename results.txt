@@ -20,7 +20,7 @@ DESC:def What is `` Nine Inch Nails '' ? what
 DESC:def What is an annotated bibliography ? what
 NUM:date What is the date of Boxing Day ? what
 ENTY:other What articles of clothing are tokens in Monopoly ? what
-HUM:ind Name 11 famous martyrs . unknown
+HUM:ind Name 11 famous martyrs . what
 DESC:desc What 's the Olympic motto ? what
 DESC:desc What is the origin of the name ` Scarlett ' ? what
 ENTY:letter What 's the second-most-used vowel in English ? what
@@ -127,7 +127,7 @@ DESC:desc What is the historical relationship of Catholic Church and bingo ? wha
 DESC:manner How was the element calcium named ? unknown
 HUM:ind What crooner joined The Andrews Sisters for Pistol Packin Mama ? what
 HUM:gr What piano company claims its product is the `` Instrument of the immortals '' ? what
-NUM:date When did the Bounty mutiny take place ? unknown
+NUM:date When did the Bounty mutiny take place ? when
 ENTY:cremat What novel inspired the movie BladeRunner ? what
 DESC:def What is a transistor ? what
 ENTY:cremat What is a film starring Jude Law ? what
@@ -248,7 +248,7 @@ HUM:ind Who wrote NN DT NNP NNP '' ? who
 DESC:def What is paracetamol ? what
 DESC:desc What are the powers and weaknesses of Green Lantern 's ring ? what
 ENTY:animal Which mosquito 's bite draws blood , DT NN CC DT NN . unknown
-NUM:date When was the first steel mill in the United States built ? who
+NUM:date When was the first steel mill in the United States built ? when
 HUM:ind What diminutive American female gymnast stole the show at the 1984 Olympics ? what
 DESC:desc What is the origin of the name Katie ? what
 HUM:gr What schools in the Washington , DC NN NN VBP NN NN NN NN . what
@@ -277,7 +277,7 @@ HUM:ind Who are the two sons of Ozzie and Harriet Nelson ? who
 DESC:def What is molybdenum ? what
 NUM:date When is Boxing Day ? what
 ENTY:other What is the lowest level of the American judiciary ? what
-NUM:date When was the battle of the Somme fought ? what
+NUM:date When was the battle of the Somme fought ? when
 NUM:count How many people did Randy Craft kill ? unknown
 ENTY:animal What 's the official animal of Canada ? what
 NUM:date When did Spielberg direct `` Jaws '' ? when
@@ -393,7 +393,7 @@ HUM:ind What United States President had dreamed that he was assassinated ? what
 ENTY:cremat What film did Lee Marvin win the 1965 best actor Oscar for ? what
 LOC:other Where is Basque country located ? unknown
 ENTY:product What product does `` Mrs. Olsen '' promote ? what
-NUM:date What time of day did Emperor Hirohito die ? when
+NUM:date What time of day did Emperor Hirohito die ? what
 DESC:def What is dry ice ? what
 ENTY:other What 's the most powerful card in Euchre ? what
 DESC:def What does `` intractable plantar keratoma '' mean ? what
@@ -546,7 +546,7 @@ ENTY:animal What animal has killed the most people ? what
 NUM:count How many colleges are in Wyoming ? unknown
 LOC:city What Russian seaport has a name meaning `` Lord of the East '' ? what
 LOC:other Where can stocks be traded on-line ? unknown
-NUM:date When was the Battle of Hastings ? what
+NUM:date When was the Battle of Hastings ? when
 ENTY:other What kind of file has the extension .dbf ? what
 NUM:date When did Muhammad live ? when
 ENTY:termeq What then-derogatory term was applied to the painters Monet , Sisley , Pissarro , Renoir and Degas ? what
@@ -577,7 +577,7 @@ HUM:ind Who was the star of the 1965 Broadway hit Golden Boy ? who
 LOC:other Where is Procter & Gamble based in the U.S. ? unknown
 HUM:gr What army was founded by William Booth and his wife Catherine ? what
 ENTY:substance What does ribavirin consist of ? what
-ENTY:food Name the soft drink that is `` number one in the sun . '' what
+ENTY:food Name the soft drink that is `` number one in the sun . '' unknown
 LOC:other What is the web address of the list of e-mail addresses of members of the House of Representatives ? what
 HUM:ind What was her real name ? what
 DESC:reason Why are the ears your center of balance ? unknown
@@ -626,7 +626,7 @@ LOC:other What is Bill Gates of Microsoft E-mail address ? what
 ENTY:substance What is the second hardest substance ? what
 DESC:reason Why did several San Diego schools stop serving apples to students ? unknown
 LOC:city What Russian city boasts the Hermitage Museum ? what
-NUM:date When is Bastille Day ? what
+NUM:date When is Bastille Day ? when
 DESC:reason What makes a tornado turn ? what
 NUM:count How many shots can a stock M16 hold ? unknown
 ENTY:color What two colors are you blind to if you suffer from protanopia ? what
@@ -642,7 +642,7 @@ DESC:desc What is the origin of the word , magic ? what
 ENTY:sport What sport do you shag flies in ? what
 DESC:def What is white chocolate ? what
 LOC:other Where is Trinidad ? unknown
-HUM:gr Name the organization that is presided by a Security Council . what
+HUM:gr Name the organization that is presided by a Security Council . unknown
 HUM:ind Who graced the airwaves with such pearls as `` Do ya lo-o-ove me ? Get naked , baby ! '' ? who
 ENTY:food What kind of wine is Spumante ? what
 HUM:ind Who portrayed portly criminologist Carl Hyatt on Checkmate ? who
@@ -673,14 +673,14 @@ LOC:other What arch can you see from the Place de la Concorde ? what
 HUM:ind Who sings the song `` Drink to me with thine eyes '' by Ben Johnson ? who
 NUM:period How long should a person wash their hands before they are clean ? unknown
 LOC:other Which way do you turn your Bic to increase the flame - clockwise or counterclockwise ? unknown
-LOC:country Which is the wealthiest country in the world ? what
+LOC:country Which is the wealthiest country in the world ? unknown
 DESC:manner How can I find a phone number of someone if I only know their email address ? unknown
 DESC:manner How can you contact play producers and promoters on-line ? unknown
 HUM:ind Who is the monarch of the United Kingdom ? who
 ENTY:dismed What is a fear of passing high objects ? what
 DESC:desc What do players try to do when the music stops in a game of musical chairs ? what
 HUM:ind What are the top ten most common girl names in the US ? what
-DESC:reason Why is black the color of mourning in the West ? what
+DESC:reason Why is black the color of mourning in the West ? unknown
 ENTY:other What is the rarest coin ? what
 ENTY:cremat What Judith Rossner novel was made into a film starring Diane Keaton ? what
 LOC:country Which country is Australia 's largest export market ? unknown
@@ -909,7 +909,7 @@ LOC:mount What mountain range is traversed by the highest railroad in the world 
 DESC:reason Why were the American soldiers in WWI called `` Doughboys '' unknown
 HUM:ind Who was nicknamed The Little Corporal ? who
 NUM:count How many CDs has Garth Brooks sold ? unknown
-ENTY:veh Name the vessel used by the Atari Force in the DC comics . what
+ENTY:veh Name the vessel used by the Atari Force in the DC comics . unknown
 LOC:other Where are the leading medical groups specializing in lung diseases ? unknown
 DESC:manner How can I find online spelling , and punctuation drills for my 6th grader ? unknown
 LOC:other What 's the sacred river of India ? what

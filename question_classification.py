@@ -18,7 +18,7 @@ testfile=r'C:\Users\gautam\Downloads\kaggle\NLP\niki\testData.txt'
 resultfile=r'C:\Users\gautam\Downloads\kaggle\NLP\niki\results.txt'
 
 ## Stopwords that will occur and effect the model
-stopwords=set(list(punctuation) + ['``',"''",",,,"])
+stopwords=set(list(punctuation) + ['``',"''",",,,","'s","a","an","the","is","?"])
 trainlabel=[]
 trainData=[]
 
@@ -55,6 +55,8 @@ trainlabels=[trainmap[i] for i in trainlabel]
 TrainingData=[' '.join(line) for line in processed_data]
 
 # Transforming each sentence into word count vectorizer
+# min_df - minimum word frequency threshold
+# we can also use ngrams in this model with parameter "ngram_range=(1, 2)"
 vectorizer=CountVectorizer(min_df=1)
 X=vectorizer.fit_transform(TrainingData).toarray()
 
