@@ -34,7 +34,7 @@ So, the output contains the labels attached to them
 
 # Results and Accuracy
 
-We tested the data on file "testdata.txt" which is same as train data and that gives below performance results
+We tested the data on file "testData.txt" which is same as train data and that gives below performance results
 Accuracy : 0.978000
 Variance score: 0.98
 
